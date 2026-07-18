@@ -3,10 +3,10 @@ An end-to-end ESG analytics project using Python, MySQL, SQL, and Power BI to an
 
 ## Executive Dashboard
 
-![Executive Dashboard](Executive Dashboard.png)
+![Executive Dashboard](Executive_Dashboard.png)
 
 ## Sustainability Dashboard
 
-![Sustainability Dashboard](Sustainability Dashboard.png)
+![Sustainability Dashboard](Sustainability_Dashboard.png)
 
-![Sustainability Dashboard](Sustainability%20Dashboard.png)
+
